@@ -1,5 +1,5 @@
 ## Go Studies
 
-[Map](./map/)
-[Interfaces](./interfaces/)
-[Pointers](./pointers/)
+[Map](./map/)  
+[Interfaces](./interfaces/)  
+[Pointers](./pointers/)  
