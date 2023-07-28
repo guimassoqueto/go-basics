@@ -1,4 +1,4 @@
-package it
+package interfaces
 
 func Main() {
 	michaelJackson := Singer {

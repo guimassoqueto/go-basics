@@ -1,4 +1,4 @@
-package it
+package interfaces
 
 type Person struct {
 	Name string
