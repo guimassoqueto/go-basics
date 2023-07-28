@@ -18,4 +18,9 @@ func Main() {
 
 	integerResult := add(1, 2, 3, 4, 5)
 	fmt.Printf("Result of the sum of integer parameters: %d\n", integerResult)
+
+	sliceParams := []int{10, 20, 30}
+	sliceParamsResult := add(sliceParams...)
+	fmt.Printf("Result of the sum of slice parameters: %d\n", sliceParamsResult)
+
 }
